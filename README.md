@@ -5,4 +5,6 @@ You can find the Dataset [here.](https://data.world/markbradbourne/rwfd-real-wor
 
 Worked out live interactive Dashboard can be found [here.](https://public.tableau.com/views/FinancialComponentsDataset/FinancialComponentsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-
+<p align="center">
+<img src="https://github.com/vivek-zanee/Financial-Consumer-Complaints-Dashboard/blob/900f45b665bac8960a6fa03c7974ad0f697b8f95/Financial%20Components%20Dashboard.png">
+</p>
